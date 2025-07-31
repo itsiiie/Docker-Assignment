@@ -1,0 +1,8 @@
+# Ignore node dependencies
+/frontend/node_modules/
+
+# Ignore IDE/editor folders
+.vscode/
+__pycache__/
+*.pyc
+.env
